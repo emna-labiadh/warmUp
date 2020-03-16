@@ -16,3 +16,33 @@ function multiple(x,y){
 // 4-calculate your age in secon
 // your code  here
 
+ {firstName: 'Yan', lastname: 'Fan' } 
+ {a: 1, b:2, c: 3, d: 4} 
+ 
+       animal: 'dog' 
+       noise: 'bark', 
+       age: 3, 
+       type: 'Golden Retriever' 
+       color: 'Yellow', }
+
+
+       var person = {
+       	firstName: 'omar',
+       	lastname: 'chaouachi',
+        age: 26,
+        hometown: 'tunis'
+
+       }
+
+
+       person.favoriteMovie = 'the lord of the rings'
+       person.dateOfBirth = '25th' + ' ' + 'of' +' ' + 'october'
+       person.favoriteSport = 'boxing'
+
+
+     var name ={
+     	firstName:'zakaria',
+     	lastName:'gharbi'
+     };
+
+
