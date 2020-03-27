@@ -6,6 +6,16 @@
 // mult(3); // => 6
 // mult(4); // => 24
 
+
+ function mult(n){
+    	var result = 1 
+    	 while(n > 1) {
+    	 	result = result * n 
+    	      n = n - 1
+    	 }
+         return result
+    }
+
 // 2- Use a while loop to build a single string with the numbers 1 through n
 // separated by the number next to the current number.
 //Have it return the new string.
